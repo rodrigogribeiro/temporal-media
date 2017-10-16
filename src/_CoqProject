@@ -1,0 +1,6 @@
+-R . Media
+
+./Axioms.v
+./Media.v
+./Tactics/LibTactics.v
+./Tactics/Crush.v
